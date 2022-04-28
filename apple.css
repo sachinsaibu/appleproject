@@ -1,0 +1,31 @@
+#h11{
+padding: 10%;
+}
+video{
+    width: 100%;
+    border: 2px solid white;
+    border-radius: 40px;
+    padding: 20px;
+}
+.btnn{
+    width: 30%;
+    height:50px;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.btnn:hover{
+    background-color: rgb(30, 124, 30);
+    color: black;
+    border: 1px solid black;
+}
+li{
+    list-style: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
